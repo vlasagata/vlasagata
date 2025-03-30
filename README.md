@@ -10,7 +10,7 @@
 🔹 [🎯 RFM Segmentation, Funnel Analysis, Cohort Analysis (Tableau)](https://public.tableau.com/app/profile/agata.vlasenko/vizzes)  
 🔹 [📊 **A/B Testing** (Google Sheets)](https://docs.google.com/spreadsheets/d/1kgddWpSruVzPDeyv_qzPYOJREt0UYrLqVSwjDoQYWGM/edit?usp=sharing)  
 🔹 [💰 **CLV Analysis** (Google Sheets)](https://docs.google.com/spreadsheets/d/13jCSN8GFWRkDy4OpPCNXi-kxqza30LPJ-Ok5drpG-9M/edit?usp=sharing)  
-🔹 [♟️ Chess.py – Chess Game in Python]()  
+🔹 [♟️ Chess.py – Chess Game in Python](https://github.com/vlasagata/chess.py.git)  
 
 📊 **Skills & Technologies:**  
 
