@@ -14,11 +14,16 @@
 
 📊 **Skills & Technologies:**  
 
-🔹 **Databases:** SQL, Relational databases, BigQuery  \n
-🔹 **Data Visualization:** Google Spreadsheets, Dashboards, Data Storytelling, Data Presenting, PowerPoint, Tableau \n
-🔹 **Analytical Methods:** Data Cleaning, Cohort Analysis, Retention Analysis, Churn Analysis, Funnel Analysis, Customer Segmentation Analysis, RFM & CLV \n
-🔹 **Statistics/Machine Learning:** A/B Testing, Linear Regression, Logistic Regression  \n
-🔹 **Programming with Python:** Python, Object-Oriented Programming (OOP), Pandas, Numpy, Matplotlib, Exploratory Data Analysis (EDA)  \n
+🔹 **Databases:** SQL, Relational databases, BigQuery 
+
+🔹 **Data Visualization:** Google Spreadsheets, Dashboards, Data Storytelling, Data Presenting, PowerPoint, Tableau 
+
+🔹 **Analytical Methods:** Data Cleaning, Cohort Analysis, Retention Analysis, Churn Analysis, Funnel Analysis, Customer Segmentation Analysis, RFM & CLV 
+
+🔹 **Statistics/Machine Learning:** A/B Testing, Linear Regression, Logistic Regression  
+
+🔹 **Programming with Python:** Python, Object-Oriented Programming (OOP), Pandas, Numpy, Matplotlib, Exploratory Data Analysis (EDA)  
+
 🔹 **Tools:** Excel/Google Sheets, SQL (BigQuery), Tableau, PowerPoint, Git  
 
 📫 **How to Reach Me?**  
