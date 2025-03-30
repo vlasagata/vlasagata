@@ -24,5 +24,5 @@
 📫 **How to Reach Me?**  
 🔗 [LinkedIn](https://lt.linkedin.com/in/agata-vlasenko)  
 
-💡 _Always learning and open to new projects!_
+## 💡 _Always learning and open to new projects!_
 
