@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Agata!
 
 🎯 **About Me:**  
-- 📊 Data analyst passionate about **marketing analytics and product analytics**  
+- 📊 Data analyst with a background in business operations, currently **focused on growing my skills through real projects**. 
 - 🛠️ Proficient in **SQL | Python | Tableau | Google Sheets**  
 - 📈 Experience in **funnel analysis, customer segmentation, RFM analysis, A/B testing**  
 - 🚀 Developing analytical projects and improving my skills
