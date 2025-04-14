@@ -8,20 +8,14 @@
 
 📂 **My Projects:**  
 🔹 [🎯 RFM Segmentation, Funnel Analysis, Cohort Analysis (Tableau)](https://public.tableau.com/app/profile/agata.vlasenko/vizzes) 
-
-   Analyzed customer behavior and visualized customer segments using Tableau, showcasing my skills in cohort analysis and funnel analysis.
    
 🔹 [📊 **A/B Testing** (Google Sheets)](https://docs.google.com/spreadsheets/d/1kgddWpSruVzPDeyv_qzPYOJREt0UYrLqVSwjDoQYWGM/edit?usp=sharing) 
-   Conducted A/B tests to compare performance metrics and draw actionable conclusions on marketing strategies.
-   
+
 🔹 [💰 **CLV Analysis** (Google Sheets)](https://docs.google.com/spreadsheets/d/13jCSN8GFWRkDy4OpPCNXi-kxqza30LPJ-Ok5drpG-9M/edit?usp=sharing) 
-   Calculated Customer Lifetime Value (CLV) to segment customers and optimize marketing spend.
    
 🔹 [♟️ Chess.py – Chess Game in Python](https://github.com/vlasagata/chess.py.git)  
-   Developed a chess game in Python to practice logic, object-oriented programming, and game development.
    
 🔹 [🎶 Spotify Top 50 EDA (pandas, Jupyter Notebook)](https://github.com/vlasagata/Spotify_top50.git)
-   Performed exploratory data analysis (EDA) on Spotify’s Top 50 chart to uncover trends in popular songs using pandas and Jupyter Notebook.
 
 📊 **Skills & Technologies:**  
 
