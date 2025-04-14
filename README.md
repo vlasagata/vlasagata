@@ -7,7 +7,8 @@
 - 🚀 Developing analytical projects and improving my skills
 
 📂 **My Projects:**  
-🔹 [🎯 RFM Segmentation, Funnel Analysis, Cohort Analysis (Tableau)](https://public.tableau.com/app/profile/agata.vlasenko/vizzes)  
+🔹 [🎯 RFM Segmentation, Funnel Analysis, Cohort Analysis (Tableau)](https://public.tableau.com/app/profile/agata.vlasenko/vizzes) 
+
    Analyzed customer behavior and visualized customer segments using Tableau, showcasing my skills in cohort analysis and funnel analysis.
    
 🔹 [📊 **A/B Testing** (Google Sheets)](https://docs.google.com/spreadsheets/d/1kgddWpSruVzPDeyv_qzPYOJREt0UYrLqVSwjDoQYWGM/edit?usp=sharing) 
